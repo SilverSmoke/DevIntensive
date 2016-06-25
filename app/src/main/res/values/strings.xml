@@ -3,4 +3,16 @@
     
     <string name="about_me">Немного о себе: ... что-то затянулось выполнение этого задания.
     Время 0:43 а Конь ещё не валялся!</string>
+    
+    <string name="rating_number">5</string>
+
+    <string name="rating_title">Рейтинг</string>
+
+    <string name="code_number">2000</string>
+
+    <string name="code_title">Написано строк кода</string>
+
+    <string name="project_number">2</string>
+
+    <string name="progect_title">Проектов</string>
 </resources>
