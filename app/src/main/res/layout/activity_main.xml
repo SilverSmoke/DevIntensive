@@ -136,7 +136,7 @@
                     android:inputType="textEmailAddress"
                     android:hint="e-mail"
                     android:text="myMail"
-                    android:enabled="true"
+                    android:enabled="false"
                     android:textColor="@color/black"
                     android:textColorHint="@color/grey"
                     android:focusable="false"/>
@@ -180,7 +180,7 @@
                     android:inputType="textUri"
                     android:hint="Профиль в VK"
                     android:text="my_Prifile_in_VK"
-                    android:enabled="true"
+                    android:enabled="false"
                     android:textColor="@color/black"
                     android:textColorHint="@color/grey"
                     android:focusable="false"/>
@@ -224,7 +224,7 @@
                     android:inputType="textUri"
                     android:hint="Репозиторий"
                     android:text="https://github.com/SilverSmoke/DevIntensive"
-                    android:enabled="true"
+                    android:enabled="false"
                     android:textColor="@color/black"
                     android:textColorHint="@color/grey"
                     android:focusable="false"/>
@@ -268,7 +268,7 @@
                     android:inputType="none"
                     android:hint="О себе"
                     android:text="@string/about_me"
-                    android:enabled="true"
+                    android:enabled="false"
                     android:textColor="@color/black"
                     android:textColorHint="@color/grey"
                     android:focusable="false"/>
